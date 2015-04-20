@@ -16,4 +16,4 @@ to Berlin in the year 1898. Ponder carefully your future."
 
 You choose:
 
-[Travel To Berlin!](https://github.com/YIFANNIU/create-your-own-adventure/blob/master/english/light-fire/xyzzy/stand-petrified/travel_to_Berlin/travel_to_Berlin.md)
+[Travel To Berlin!.](stand-petrified/travel_to_Berlin/travel_to_Berlin.md)
