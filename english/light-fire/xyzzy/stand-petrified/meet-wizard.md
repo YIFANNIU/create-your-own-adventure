@@ -13,4 +13,7 @@ She points a long finger at the spot between your eyes.
 
 "Before you choose, you must know that this will entail travel through time and space
 to Berlin in the year 1898. Ponder carefully your future."
- 
+
+You choose:
+
+[Travel To Berlin!](stand-petrified/travel_to_Berlin/travel_to_Berlin.md)
